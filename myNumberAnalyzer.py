@@ -23,7 +23,7 @@ def getLowest(numbers):
      
 
 numbers = [1,2,3,4,5,31,25,43,13,25]
-moreNumbers = [12398,2133,1823,1882,3344,192,1239,489]
+moreNumbers = [7565,3436,565,34,3,43,5665,3,33,23,2]
 
 average = getAverage(numbers)
 sum = getSum(numbers)
